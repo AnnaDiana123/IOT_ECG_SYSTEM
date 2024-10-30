@@ -1,0 +1,9 @@
+[submodule "ECG_WEB_APP"]
+	path = ECG_WEB_APP
+	url = https://github.com/AnnaDiana123/ECG_WEB_APP.git
+[submodule "RASPBERRYPI_ECG_APP"]
+	path = RASPBERRYPI_ECG_APP
+	url = https://github.com/AnnaDiana123/RaspberryPi_ECG_APP.git
+[submodule "ESP8266_ECG_APP"]
+	path = ESP8266_ECG_APP
+	url = https://github.com/AnnaDiana123/ESP8266_ECG_APP.git
